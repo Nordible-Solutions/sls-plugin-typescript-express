@@ -10,18 +10,18 @@
 ## Instalation and use
 
 ```sh
-yarn add --dev serverless-plugin-typescript-express
+yarn add --dev sls-plugin-typescript-express
 ```
 or
 ```
-npm install --save-dev serverless-plugin-typescript-express
+npm install --save-dev sls-plugin-typescript-express
 ```
 
 Add the following plugin to your `serverless.yml`:
 
 ```yaml
 plugins:
-  - 'serverless-plugin-typescript-express'
+  - 'sls-plugin-typescript-express'
 ```
 
 ### `tsconfig.json`
