@@ -1,6 +1,7 @@
 # Serverless Plugin Typescript Express
 
 Compile ts files to js with [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com). 
+AWS Lambda serverless.yml plugin for working typescript express node apps.
 
 Credits:
 - [@hewmen](https://github.com/hewmen/serverless-plugin-typescript)
