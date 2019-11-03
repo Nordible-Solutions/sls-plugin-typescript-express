@@ -1,6 +1,10 @@
 # Serverless Plugin Typescript Express
 
-[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com). [Forked from](https://github.com/hewmen/serverless-plugin-typescript)
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com). 
+
+Credits:
+- [@hewmen](https://github.com/hewmen/serverless-plugin-typescript)
+- [@eliasjcjunior](https://github.com/eliasjcjunior/serverless-plugin-typescript-express)
 
 ## Features
 
