@@ -1,6 +1,6 @@
 # Serverless Plugin Typescript Express
 
-[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com). 
+Compile ts files to js with [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com). 
 
 Credits:
 - [@hewmen](https://github.com/hewmen/serverless-plugin-typescript)
